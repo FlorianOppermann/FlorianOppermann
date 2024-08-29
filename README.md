@@ -25,7 +25,7 @@ I'm an enthusiastic Computer Science student from Münster, Germany. I'm passion
 ## Get in Touch
 
 - 📫 You can reach me via [Email](mailto:florianoppermann01@gmail.com).
-- 💼 Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/florian-oppermann-8914221b4/)).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/florian-oppermann-8914221b4/)
 - 🌟 Check out my [GitHub](https://github.com/FlorianOppermann) for more projects.
 
 Thanks for visiting my profile! Feel free to check out my repositories and leave a star if you find something interesting! ✨
